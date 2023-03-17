@@ -35,9 +35,11 @@ Autoencoder: Use an autoencoder to detect anomalies in the air quality data.
 Regression Scorer: Calculate the Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared for the regression models.
 Rule Engine: Apply classification rules to the air pollutant levels and calculate accuracy, precision, and recall.
 Confusion Matrix: Visualize the classification results in a confusion matrix.
-Visualization:
+
+6. Visualization:
 Line Plot: Visualize the actual air pollutant data and the predicted values for each model.
 Scatter Plot: Visualize the correlations between different air pollutants.
 Heatmap: Visualize the correlation between air pollutants and weather data.
 Network Visualization: Generate visualizations of the deep learning models, such as heatmaps of the model's attention or activation maps.
+
 This workflow includes nodes for data preparation, feature engineering, time series analysis, modeling, evaluation, and visualization, covering all of the suggestions I've made. You can customize and modify this workflow based on your specific needs and data.
