@@ -1,5 +1,5 @@
 # knime
-Knime examples for time series forecasting includin NYC taxis and energy demand.
+Knime examples for time series forecasting including NYC taxis and energy demand.
 
 Your data will be air pollution time series of a Catalan city
 
