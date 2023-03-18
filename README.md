@@ -31,7 +31,7 @@ Recurrent Neural Network: Use an RNN to forecast future air pollutant levels.
 Convolutional Neural Network: Use a CNN to classify air pollutant levels.
 Autoencoder: Use an autoencoder to detect anomalies in the air quality data.
 
-5.Evaluation:
+5. Evaluation:
 Regression Scorer: Calculate the Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared for the regression models.
 Rule Engine: Apply classification rules to the air pollutant levels and calculate accuracy, precision, and recall.
 Confusion Matrix: Visualize the classification results in a confusion matrix.
