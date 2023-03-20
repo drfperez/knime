@@ -3,7 +3,7 @@ Knime examples for time series forecasting including NYC taxis and energy demand
 
 Another different workflow is 05_airpollution.knwf. This KNIME workflow come from a paper published on Science Advances at https://advances.sciencemag.org/content/6/45/eabd4049. Reference: Wu, X., Nethery, R. C., Sabath, M. B., Braun, D., & Dominici, F. (2020). Air pollution and COVID-19 mortality in the United States: Strengths and limitations of an ecological regression analysis. Science advances, 6(45), eabd4049.
 
-User car data predicted prices is also interesting to compare predicted prices with algorithms 
+User car data predicted prices is also interesting to compare predicted prices with different regression algorithms 
 
 Your data will be air pollution time series of a Catalan city, the same city you analysed previously in R.
 
