@@ -5,7 +5,7 @@ Another different workflow is 05_airpollution.knwf. This KNIME workflow come fro
 
 User car data predicted prices is also interesting to compare predicted prices with different regression algorithms 
 
-Your data will be air pollution time series of a Catalan city, the same city you analysed previously in R.
+**Your data will be air pollution time series of a Catalan city, the same city you analysed previously in R.**
 
 Steps
 
